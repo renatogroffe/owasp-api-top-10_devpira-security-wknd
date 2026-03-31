@@ -58,7 +58,7 @@ mindmap
       Recomendação4["Realizar Testes de Carga"]
 ```
 ---
-  
+
 ## Informações sobre o evento
 
 Título da apresentação: **Produtividade no uso de Bancos de Dados com IAs - descomplicando tarefas do dia a dia com MCP Servers**
@@ -73,13 +73,11 @@ Número de participantes: **90 pessoas (estimativa)**
 
 Site do evento: **https://sqlsaturday.com.br/**
 
-Link do evento (inscrições): [**Sympla**](https://www.sympla.com.br/evento/sqlsaturday-sao-paulo-2026/3244336)
+Link do evento (inscrições): [**Eventiza**](https://eventiza.com.br/evento/devpira-security-wknd) | [**LinkedIn**](https://www.linkedin.com/posts/devpira_devpira-cybersecurity-segurancadainformacao-activity-7442522228178599936-S6zr)
 
 Local: **Centro Universitário Eniac - Rua Força Pública, 89 - Centro - Guarulhos - CEP: 07012-030**
 
 Acesse este [**link**](/img/) para visualizar todas as fotos da apresentação.
-
-Esta palestra foi realizada em conjunto com meu amigo **Milton Camara (Microsoft MVP)**.
 
 Deixo aqui meus agradecimentos ao **Marcelo Adade (Microsoft MVP)**, **André Di Battista (volutário no evento)** e demais organizadores por todo o apoio para que participássemos como palestrantes desta edição do **SQLSaturday**.
 
