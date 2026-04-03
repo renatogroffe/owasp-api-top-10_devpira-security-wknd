@@ -77,21 +77,21 @@ mindmap
 
 Título da apresentação: **OWASP API Security Top 10 - Um guia para a implementação de Back-Ends mais seguros**
 
-Evento: **SQLSATURDAY São Paulo 2026**
+???????????Evento: **SQLSATURDAY São Paulo 2026**
 
 Data: **28/03/2026 (sábado)**
 
-Tecnologias e tópicos abordados: **MCP, GitHub Copilot, Visual Studio Code, Inteligência Artificial, LLMs, Containers, Docker, Docker Hub, Docker MCP Catalog, Windows, Linux, macOS, .NET, ASP.NET Core, NuGet, Node.js, npm, pip, Python, Claude, SQL Server, PostgreSQL, Mermaid, draw.io, Excalidraw...**
+???????????Tecnologias e tópicos abordados: **MCP, GitHub Copilot, Visual Studio Code, Inteligência Artificial, LLMs, Containers, Docker, Docker Hub, Docker MCP Catalog, Windows, Linux, macOS, .NET, ASP.NET Core, NuGet, Node.js, npm, pip, Python, Claude, SQL Server, PostgreSQL, Mermaid, draw.io, Excalidraw...**
 
-Número de participantes: **90 pessoas (estimativa)**
+Número de participantes: **34 pessoas**
 
 Link do evento (inscrições): [**Eventiza**](https://eventiza.com.br/evento/devpira-security-wknd) | [**LinkedIn**](https://www.linkedin.com/posts/devpira_devpira-cybersecurity-segurancadainformacao-activity-7442522228178599936-S6zr)
 
-Local: **Centro Universitário Eniac - Rua Força Pública, 89 - Centro - Guarulhos - CEP: 07012-030**
+Local: **Inova ACIPI - Rua Prudente de Morais, 459 - Centro - Piracicaba-SP - CEP: 13400-310**
 
 Acesse este [**link**](/img/) para visualizar todas as fotos da apresentação.
 
-Deixo aqui meus agradecimentos ao **Marcelo Adade (Microsoft MVP)**, **André Di Battista (volutário no evento)** e demais organizadores por todo o apoio para que participássemos como palestrantes desta edição do **SQLSaturday**.
+???????????Deixo aqui meus agradecimentos ao **Marcelo Adade (Microsoft MVP)**, **André Di Battista (volutário no evento)** e demais organizadores por todo o apoio para que participássemos como palestrantes desta edição do **SQLSaturday**.
 
 ---
 
@@ -113,6 +113,6 @@ Deixo aqui meus agradecimentos ao **Marcelo Adade (Microsoft MVP)**, **André Di
 
 ![Programação](img/site-02.png)
 
-![Descritivo Palestra](img/site-03.png)
+![Banner palestra](img/banner-renatogrofe.jpg)
 
-![Site](img/site-01.png)
+![Feedback no LinkedIn](img/feedback-01.png)
