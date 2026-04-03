@@ -1,6 +1,9 @@
 # owasp-api-top-10_devpira-security-wknd
 Slides e conteúdos da apresentação "OWASP API Security Top 10 - Um guia para a implementação de Back-Ends mais seguros".
 
+## Referências
+- OWASP API Security Top 10 2023: https://owasp.org/API-Security/editions/2023/en/0x11-t10/
+
 ## OWASP API Security Top 10 2023
 
 Riscos que fazem parte da **OWASP Top 10 API Security Risks - 2023**:
@@ -70,8 +73,6 @@ Data: **28/03/2026 (sábado)**
 Tecnologias e tópicos abordados: **MCP, GitHub Copilot, Visual Studio Code, Inteligência Artificial, LLMs, Containers, Docker, Docker Hub, Docker MCP Catalog, Windows, Linux, macOS, .NET, ASP.NET Core, NuGet, Node.js, npm, pip, Python, Claude, SQL Server, PostgreSQL, Mermaid, draw.io, Excalidraw...**
 
 Número de participantes: **90 pessoas (estimativa)**
-
-Site do evento: **https://sqlsaturday.com.br/**
 
 Link do evento (inscrições): [**Eventiza**](https://eventiza.com.br/evento/devpira-security-wknd) | [**LinkedIn**](https://www.linkedin.com/posts/devpira_devpira-cybersecurity-segurancadainformacao-activity-7442522228178599936-S6zr)
 
