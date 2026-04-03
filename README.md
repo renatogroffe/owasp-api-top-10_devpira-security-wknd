@@ -13,6 +13,7 @@ Slides e conteúdos da apresentação "OWASP API Security Top 10 - Um guia para 
 - OWASP MCP Top 10: https://owasp.org/www-project-mcp-top-10/
 - OWASP Cheat Sheet Series: https://cheatsheetseries.owasp.org/
 - OWASP Top 10 for Large Language Model Applications: https://owasp.org/www-project-top-10-for-large-language-model-applications/
+- Docker Hardened Images: https://www.docker.com/products/hardened-images/
 
 ## OWASP API Security Top 10 2023
 
