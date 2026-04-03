@@ -92,7 +92,7 @@ Local: **Inova ACIPI - Rua Prudente de Morais, 459 - Centro - Piracicaba-SP - CE
 
 Acesse este [**link**](/img/) para visualizar todas as fotos da apresentação.
 
-Deixo aqui meus agradecimentos ao **Alexandre Ballestero**, ao **Fábio Baldin** e demais organizadores por todo o apoio para que eu participasse como palestrante desta edição do **DEVPIRA Security WKND**.
+Deixo aqui meus agradecimentos ao **Alexandre Ballestero**, ao **Fábio Baldin**, ao **Kaue Barros** e demais organizadores por todo o apoio para que eu participasse como palestrante desta edição do **DEVPIRA Security WKND**.
 
 ---
 
