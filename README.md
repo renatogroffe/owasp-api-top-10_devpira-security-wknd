@@ -75,7 +75,7 @@ mindmap
 
 ## Informações sobre o evento
 
-Título da apresentação: **Produtividade no uso de Bancos de Dados com IAs - descomplicando tarefas do dia a dia com MCP Servers**
+Título da apresentação: **OWASP API Security Top 10 - Um guia para a implementação de Back-Ends mais seguros**
 
 Evento: **SQLSATURDAY São Paulo 2026**
 
@@ -95,21 +95,21 @@ Deixo aqui meus agradecimentos ao **Marcelo Adade (Microsoft MVP)**, **André Di
 
 ---
 
-![Renato e Milton palestrando 1](img/sqlsat-008.jpeg)
+![Renato palestrando 1](img/sqlsat-008.jpeg)
 
-![Renato e Milton palestrando 2](img/sqlsat-042.jpeg)
+![Renato palestrando 2](img/sqlsat-042.jpeg)
 
-![Renato e Milton palestrando 3](img/sqlsat-108.jpg)
+![Renato palestrando 3](img/sqlsat-108.jpg)
 
-![Renato e Milton palestrando 4](img/sqlsat-095.jpeg)
+![Renato palestrando 4](img/sqlsat-095.jpeg)
 
-![Renato e Milton palestrando 5](img/sqlsat-076.jpeg)
+![Renato palestrando 5](img/sqlsat-076.jpeg)
 
-![Renato e Milton palestrando 6](img/sqlsat-073.jpeg)
+![Renato palestrando 6](img/sqlsat-073.jpeg)
 
-![Renato e Milton palestrando 7](img/sqlsat-092.jpeg)
+![Renato palestrando 7](img/sqlsat-092.jpeg)
 
-![Renato e Milton palestrando 8](img/sqlsat-107.jpg)
+![Renato palestrando 8](img/sqlsat-107.jpg)
 
 ![Programação](img/site-02.png)
 
