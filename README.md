@@ -91,11 +91,12 @@ Local: **Inova ACIPI - Rua Prudente de Morais, 459 - Centro - Piracicaba-SP - CE
 
 Acesse este [**link**](/img/) para visualizar todas as fotos da apresentação.
 
-???????????Deixo aqui meus agradecimentos ao **Marcelo Adade (Microsoft MVP)**, **André Di Battista (volutário no evento)** e demais organizadores por todo o apoio para que participássemos como palestrantes desta edição do **SQLSaturday**.
+???????????Deixo aqui meus agradecimentos ao **Marcelo Adade (Microsoft MVP)**, **André Di Battista (volutário no evento)** e demais organizadores por todo o apoio para que eu participasse como palestrante desta edição do **DEVPIRA Security WKND**.
 
 ---
 
-![Renato palestrando 1](img/sqlsat-008.jpeg)
+![Renato palestrando 1](img/owasp-api-026.jpeg)
+
 
 ![Renato palestrando 2](img/sqlsat-042.jpeg)
 
@@ -109,7 +110,10 @@ Acesse este [**link**](/img/) para visualizar todas as fotos da apresentação.
 
 ![Renato palestrando 7](img/sqlsat-092.jpeg)
 
-![Renato palestrando 8](img/sqlsat-107.jpg)
+
+![Público 1](img/owasp-api-008.jpeg)
+
+
 
 ![Programação](img/site-02.png)
 
