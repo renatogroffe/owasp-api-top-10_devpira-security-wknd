@@ -6,6 +6,8 @@ Slides e conteúdos da apresentação "OWASP API Security Top 10 - Um guia para 
 - Certificações Gratuitas APIsec University: https://www.apisecuniversity.com/courses
 - Model Context Protocol (MCP): https://github.com/modelcontextprotocol
 - Azure API Management: https://learn.microsoft.com/en-us/azure/api-management/
+- Kong API Gateway: https://developer.konghq.com/gateway/
+- Apache APISEX API Gateway: https://apisix.apache.org/
 
 ## OWASP API Security Top 10 2023
 
