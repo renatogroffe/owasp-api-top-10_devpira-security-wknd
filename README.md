@@ -77,7 +77,7 @@ mindmap
 
 Título da apresentação: **OWASP API Security Top 10 - Um guia para a implementação de Back-Ends mais seguros**
 
-???????????Evento: **SQLSATURDAY São Paulo 2026**
+Evento: **DEVPIRA Security WKND**
 
 Data: **28/03/2026 (sábado)**
 
