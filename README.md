@@ -3,6 +3,9 @@ Slides e conteúdos da apresentação "OWASP API Security Top 10 - Um guia para 
 
 ## Referências
 - OWASP API Security Top 10 2023: https://owasp.org/API-Security/editions/2023/en/0x11-t10/
+- Certificações Gratuitas APIsec University: https://www.apisecuniversity.com/courses
+- Model Context Protocol (MCP): https://github.com/modelcontextprotocol
+- Azure API Management: https://learn.microsoft.com/en-us/azure/api-management/
 
 ## OWASP API Security Top 10 2023
 
