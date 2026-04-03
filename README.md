@@ -8,6 +8,11 @@ Slides e conteúdos da apresentação "OWASP API Security Top 10 - Um guia para 
 - Azure API Management: https://learn.microsoft.com/en-us/azure/api-management/
 - Kong API Gateway: https://developer.konghq.com/gateway/
 - Apache APISEX API Gateway: https://apisix.apache.org/
+- Certificações Gratuitas em Cibersegurança - Linux Foundation: https://training.linuxfoundation.org/full-catalog/?_sfm_price=0&_sft_topic_area=cybersecurity
+- OWASP Top 10:2025: https://owasp.org/Top10/2025/
+- OWASP MCP Top 10: https://owasp.org/www-project-mcp-top-10/
+- OWASP Cheat Sheet Series: https://cheatsheetseries.owasp.org/
+- OWASP Top 10 for Large Language Model Applications: https://owasp.org/www-project-top-10-for-large-language-model-applications/
 
 ## OWASP API Security Top 10 2023
 
