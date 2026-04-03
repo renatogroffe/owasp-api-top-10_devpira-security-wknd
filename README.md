@@ -1,6 +1,20 @@
 # owasp-api-top-10_devpira-security-wknd
 Slides e conteúdos da apresentação "OWASP API Security Top 10 - Um guia para a implementação de Back-Ends mais seguros".
 
+## Referências
+- OWASP API Security Top 10 2023: https://owasp.org/API-Security/editions/2023/en/0x11-t10/
+- Certificações Gratuitas APIsec University: https://www.apisecuniversity.com/courses
+- Model Context Protocol (MCP): https://github.com/modelcontextprotocol
+- Azure API Management: https://learn.microsoft.com/en-us/azure/api-management/
+- Kong API Gateway: https://developer.konghq.com/gateway/
+- Apache APISEX API Gateway: https://apisix.apache.org/
+- Certificações Gratuitas em Cibersegurança - Linux Foundation: https://training.linuxfoundation.org/full-catalog/?_sfm_price=0&_sft_topic_area=cybersecurity
+- OWASP Top 10:2025: https://owasp.org/Top10/2025/
+- OWASP MCP Top 10: https://owasp.org/www-project-mcp-top-10/
+- OWASP Cheat Sheet Series: https://cheatsheetseries.owasp.org/
+- OWASP Top 10 for Large Language Model Applications: https://owasp.org/www-project-top-10-for-large-language-model-applications/
+- Docker Hardened Images: https://www.docker.com/products/hardened-images/
+
 ## OWASP API Security Top 10 2023
 
 Riscos que fazem parte da **OWASP Top 10 API Security Risks - 2023**:
@@ -57,4 +71,50 @@ mindmap
       Recomendação3["Configurar Alertas de Uso Excessivo"]
       Recomendação4["Realizar Testes de Carga"]
 ```
+---
 
+## Informações sobre o evento
+
+Título da apresentação: **OWASP API Security Top 10 - Um guia para a implementação de Back-Ends mais seguros**
+
+Evento: **DEVPIRA Security WKND**
+
+Data: **28/03/2026 (sábado)**
+
+Tecnologias e tópicos abordados: **.NET, ASP.NET Core, OWASP API Security Top 10, JWT, Cybersecurity, Grafana stack, Docker, NuGet, npm, API Gateways, Rate Limit, Resiliência, Azure API Management, Microsoft Entra ID, Kong, APISIX...**
+
+Número de participantes: **34 pessoas**
+
+Link do evento (inscrições): [**Eventiza**](https://eventiza.com.br/evento/devpira-security-wknd) | [**LinkedIn**](https://www.linkedin.com/posts/devpira_devpira-cybersecurity-segurancadainformacao-activity-7442522228178599936-S6zr)
+
+Local: **Inova ACIPI - Rua Prudente de Morais, 459 - Centro - Piracicaba-SP - CEP: 13400-310**
+
+Acesse este [**link**](/img/) para visualizar todas as fotos da apresentação.
+
+Deixo aqui meus agradecimentos ao **Alexandre Ballestero**, ao **Fábio Baldin** e demais organizadores por todo o apoio para que eu participasse como palestrante desta edição do **DEVPIRA Security WKND**.
+
+---
+
+![Renato palestrando 1](img/owasp-api-026.jpeg)
+
+![Renato palestrando 2](img/owasp-api-029.jpeg)
+
+![Renato palestrando 3](img/owasp-api-030.jpeg)
+
+![Renato palestrando 4](img/owasp-api-031.jpeg)
+
+![Renato palestrando 5](img/owasp-api-036.jpeg)
+
+![Renato palestrando 6](img/owasp-api-039.jpeg)
+
+![Renato palestrando 7](img/owasp-api-049.jpeg)
+
+![Público 1](img/owasp-api-008.jpeg)
+
+![Público 2](img/owasp-api-024.jpeg)
+
+![Programação](img/site-02.png)
+
+![Banner palestra](img/banner-renatogrofe.jpg)
+
+![Feedback no LinkedIn](img/feedback-01.png)
