@@ -81,7 +81,7 @@ Evento: **DEVPIRA Security WKND**
 
 Data: **28/03/2026 (sábado)**
 
-???????????Tecnologias e tópicos abordados: **MCP, GitHub Copilot, Visual Studio Code, Inteligência Artificial, LLMs, Containers, Docker, Docker Hub, Docker MCP Catalog, Windows, Linux, macOS, .NET, ASP.NET Core, NuGet, Node.js, npm, pip, Python, Claude, SQL Server, PostgreSQL, Mermaid, draw.io, Excalidraw...**
+Tecnologias e tópicos abordados: **.NET, ASP.NET Core, OWASP API Security Top 10, JWT, Cybersecurity, Grafana stack, Docker, NuGet, npm, API Gateways, Rate Limit, Resiliência, Azure API Management, Microsoft Entra ID, Kong, APISIX...**
 
 Número de participantes: **34 pessoas**
 
