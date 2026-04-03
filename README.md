@@ -105,10 +105,9 @@ Deixo aqui meus agradecimentos ao **Alexandre Ballestero**, ao **Fábio Baldin**
 
 ![Renato palestrando 5](img/owasp-api-036.jpeg)
 
+![Renato palestrando 6](img/owasp-api-039.jpeg)
 
-![Renato palestrando 6](img/sqlsat-073.jpeg)
-
-
+![Renato palestrando 7](img/owasp-api-049.jpeg)
 
 ![Público 1](img/owasp-api-008.jpeg)
 
