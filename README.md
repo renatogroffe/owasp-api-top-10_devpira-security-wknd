@@ -97,23 +97,22 @@ Deixo aqui meus agradecimentos ao **Alexandre Ballestero**, ao **Fábio Baldin**
 
 ![Renato palestrando 1](img/owasp-api-026.jpeg)
 
+![Renato palestrando 2](img/owasp-api-029.jpeg)
 
-![Renato palestrando 2](img/sqlsat-042.jpeg)
+![Renato palestrando 3](img/owasp-api-030.jpeg)
 
-![Renato palestrando 3](img/sqlsat-108.jpg)
+![Renato palestrando 4](img/owasp-api-031.jpeg)
 
-![Renato palestrando 4](img/sqlsat-095.jpeg)
+![Renato palestrando 5](img/owasp-api-036.jpeg)
 
-![Renato palestrando 5](img/sqlsat-076.jpeg)
 
 ![Renato palestrando 6](img/sqlsat-073.jpeg)
 
-![Renato palestrando 7](img/sqlsat-092.jpeg)
 
 
 ![Público 1](img/owasp-api-008.jpeg)
 
-
+![Público 2](img/owasp-api-024.jpeg)
 
 ![Programação](img/site-02.png)
 
