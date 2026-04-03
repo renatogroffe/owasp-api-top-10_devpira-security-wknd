@@ -113,7 +113,7 @@ Deixo aqui meus agradecimentos ao **Alexandre Ballestero**, ao **Fábio Baldin**
 
 ![Público 2](img/owasp-api-024.jpeg)
 
-![Programação](img/site-02.png)
+![Programação](img/programacao.png)
 
 ![Banner palestra](img/banner-renatogrofe.jpg)
 
