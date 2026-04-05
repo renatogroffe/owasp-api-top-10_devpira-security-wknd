@@ -94,6 +94,8 @@ Click this [**link**](/img/) to view all photos from the talk.
 
 I would like to thank **Alexandre Ballestero**, **Fábio Baldin**, **Kaue Barros**, and the other organizers for all the support in having me as a speaker at this edition of **DEVPIRA Security WKND**.
 
+Due to my participation in another event on the same date, I presented the content and interacted with the participants live online.
+
 ---
 
 ![Renato speaking 1](img/owasp-api-026.jpeg)
