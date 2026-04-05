@@ -94,6 +94,8 @@ Acesse este [**link**](/img/) para visualizar todas as fotos da apresentação.
 
 Deixo aqui meus agradecimentos ao **Alexandre Ballestero**, ao **Fábio Baldin**, ao **Kaue Barros** e demais organizadores por todo o apoio para que eu participasse como palestrante desta edição do **DEVPIRA Security WKND**.
 
+Devido à minha participação em outro evento nesta mesma data, apresentei o conteúdo e interagi com os participantes ao vivo de forma online.
+
 ---
 
 ![Renato palestrando 1](img/owasp-api-026.jpeg)
